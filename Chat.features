@@ -1,12 +1,10 @@
 Feature: Chat
 
 	Scenario: Chat a user using a plain text
-		User on home screen taps on buttonshowcase
-		dasfdgafh
-		dagsfdhaf
-		dasd
-	Scenario: Send a picture
-		asdasvdajshbd
-		sd shdkjaskd
-		sdhajksd
-		sdbajsbdkasd
+		User login as arkadiusreymond2
+		User on home screen taps on widgetPulsa
+		User on pulsa screen fill phoneNumber with 082276085162
+		User on pulsa screen fill choose nominal 25.000
+		User on pulsa screen tap buttonBayar
+		User on checkout screen choose metodeBayar Transfer Bank
+		User on checkout screen taps on buttonBayar
