@@ -1,0 +1,12 @@
+Feature: Chat
+
+	Scenario: Chat a user using a plain text
+		User on home screen taps on buttonshowcase
+		dasfdgafh
+		dagsfdhaf
+		dasd
+	Scenario: Send a picture
+		asdasvdajshbd
+		sd shdkjaskd
+		sdhajksd
+		sdbajsbdkasd
